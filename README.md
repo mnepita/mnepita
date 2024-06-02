@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 💻 Backend developer
+- 🌱 I’m currently learning Node.js and Python
+- 📍 Tijuana, Mexico.
+
 <!--
 **mnepita/mnepita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
